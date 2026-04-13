@@ -13,7 +13,7 @@ const SHAPES = [
 const PRESETS = ['GOTHAM', 'SHADOWS', 'DARKKNIGHT', 'VIGILANTE', 'ARKHAM']
 
 export default function ControlPanel({ onMorph, activeShape }) {
-  const [inputText, setInputText] = useState('DEEPSICA')
+  const [inputText, setInputText] = useState('AMAN BHOSADIWALA')
   const [particleCount, setParticleCount] = useState(3500)
 
   const handleTextMorph = () => {
