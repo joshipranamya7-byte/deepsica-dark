@@ -22,7 +22,7 @@ export default function Navbar({ theme, onToggleTheme }) {
             className="glow-yellow"
             style={{ fontFamily: 'Bebas Neue', fontSize: '1.5rem', letterSpacing: '0.1em', color: '#f5d020' }}
           >
-           AMAN BHOSADIWALA
+           NIKIPO BHOSADIWALA
           </span>
           <div style={{ fontFamily: 'JetBrains Mono', fontSize: '0.6rem', color: '#555577', letterSpacing: '0.2em' }}>
             DARK EDITION
